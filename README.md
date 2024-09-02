@@ -76,7 +76,6 @@ This project highlights the complex nature of mass shootings in the United State
 
 - Clone this repository: `git clone <repository-url>`
 - Navigate to the project directory: `cd <project-directory>`
-- Install required dependencies: `pip install -r requirements.txt`
 - Run the Jupyter Notebook or scripts to reproduce the analysis.
 
 
